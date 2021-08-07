@@ -8,7 +8,7 @@ class PostsManController extends Controller
 {
     public function store()
     {
-        return "homepage";
+        return "homepage123";
     }
 
 }
